@@ -1,5 +1,8 @@
 # VLGanimalclassification
 
+## Google Drive Link of the dataset I've used(also includes the unseen classes data I collected) 
+https://drive.google.com/drive/folders/1vVCL4XXPMRaDsoIUTBdhcZvSMv_XTgH9?usp=sharing
+
 ## Image Classification using TensorFlow
 
 This project involves building and utilizing a Convolutional Neural Network (CNN) for image classification using TensorFlow. Below are the key details and explanations of the implementation.
