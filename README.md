@@ -1,6 +1,6 @@
 # VLGanimalclassification
 
-## Google Drive Link of the dataset I've used(also includes the unseen classes data I collected) 
+## Google Drive Link of the final model file and dataset I've used(also includes the unseen classes data I collected) 
 https://drive.google.com/drive/folders/1vVCL4XXPMRaDsoIUTBdhcZvSMv_XTgH9?usp=sharing
 
 ## Image Classification using TensorFlow
