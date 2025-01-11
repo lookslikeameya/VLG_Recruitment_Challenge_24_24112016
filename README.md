@@ -7,7 +7,7 @@ This project involves building and utilizing a Convolutional Neural Network (CNN
 ## Features
 - **Framework**: TensorFlow and Keras for model development and training.
 - **Preprocessing**: Image resizing, augmentation, and normalization.
-- **Model Architecture**: EfficientNetV2L, a powerful CNN for image classification.
+- **Model Architecture**: EfficientNetV2L(last 80 layers unfreezed), a powerful CNN for image classification with 2 layers and a dropout layer..
 - **Training**: Configurable epochs, batch sizes, and optimizers.
 - **Inference**: Image classification using the trained CNN model.
 
